@@ -13,6 +13,15 @@ Responsive React + TypeScript **paper-trading** application with public market d
 
 > **Demo only:** No real funds, real order execution, deposits, withdrawals or custodial accounts. Browser storage is not secure accounting, and the demo price feed can be delayed or unavailable.
 
+## Interface redesign — v2.0
+
+- Modern dark dashboard with sidebar navigation and responsive mobile menu
+- Overview cards for portfolio value, available funds, open orders, and assets
+- Interactive markets table with search, favorites, and quick trade actions
+- Upgraded candlestick chart with volume bars and interval selection
+- Spot order form with buy/sell controls and 25% / 50% / 75% / 100% quantity shortcuts
+- Improved wallet, order status filtering, cancel buttons, and virtual account reset
+
 ## Start
 
 Requires Node.js 20.19+ (or 22.12+) and npm.
