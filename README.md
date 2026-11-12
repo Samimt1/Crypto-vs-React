@@ -1,5 +1,14 @@
 # CryptoX — React Spot Exchange
 
+## Live deployment
+
+**[Open CryptoX Exchange on Vercel](https://crypto-vs-react-samimt1s-projects.vercel.app)**
+
+- Platform: Vercel (Vite / React)
+- Source: [Samimt1/Crypto-vs-React](https://github.com/Samimt1/Crypto-vs-React)
+- Deployment branch: `main`
+- Demo trading only — no real-money transactions
+
 Responsive React + TypeScript **paper-trading** application with public market data, spot market/limit order simulations, wallet, price charts and order history.
 
 > **Demo only:** No real funds, real order execution, deposits, withdrawals or custodial accounts. Browser storage is not secure accounting, and the demo price feed can be delayed or unavailable.
